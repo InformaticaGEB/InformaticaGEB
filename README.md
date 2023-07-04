@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @InformaticaGEB
 - 👀 I’m interested in programar
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Lenguaje de programacion JAVA
+- 💞️ I’m looking to collaborate on GEB
+- 📫 How to reach me jgalindos@geb.com
 
 <!---
 InformaticaGEB/InformaticaGEB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
